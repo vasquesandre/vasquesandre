@@ -1,7 +1,5 @@
-# Andre Vasques
-
 <div align="center">
-  <h2>Andre Vasques</h2>
+  <h1>Andre Vasques</h1>
   <p>iOS Developer | Swift | UIKit | SwiftUI</p>
   <p><i>Passionate about learning, building, and improving iOS solutions</i></p>
 </div>
