@@ -11,7 +11,7 @@
 ### Aspiring iOS Developer
 
 I'm in my penultimate year of a Computer Science degree, diving deep into Swift for iOS development and constantly improving my skills. I enjoy working on challenging and innovative projects, as well as enhancing existing solutions.  
-Currently, I'm working with databases, and I have past experience in full stack development using PHP, JavaScript, SQL, and Flutter.
+Currently working with databases, and I have past experience in full stack development using PHP, JavaScript, SQL, and Flutter.
 
 ---
 
