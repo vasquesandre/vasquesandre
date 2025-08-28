@@ -1,12 +1,12 @@
 <div align="center">
   <h1>Andre Vasques</h1>
-  <p>iOS Developer | Swift | UIKit | SwiftUI</p>
+  <p>iOS Developer | Swift | UIKit | SwiftUI | AWS | Java</p>
   <p><i>Passionate about learning, building, and improving iOS solutions</i></p>
 </div>
 
 ---
 
-### Aspiring iOS Developer
+### iOS Developer
 
 I'm in my penultimate year of a Computer Science degree, diving deep into Swift for iOS development and constantly improving my skills. I enjoy working on challenging and innovative projects, as well as enhancing existing solutions.  
 Currently working with databases, and I have past experience in full stack development using PHP, JavaScript, SQL, and Flutter.
