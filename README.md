@@ -1,26 +1,33 @@
 <div align="center">
   <h1>Andre Vasques</h1>
-  <p>iOS Developer | Swift | UIKit | SwiftUI | AWS | Java</p>
-  <p><i>Passionate about learning, building, and improving iOS solutions</i></p>
+  <p>Backend Developer | Java | Spring | AWS | SQL | Swift</p>
+  <p><i>Passionate about learning, building, and improving solutions</i></p>
 </div>
 
 ---
 
-### iOS Developer
+### Backend Developer
 
-I'm in my penultimate year of a Computer Science degree, diving deep into Swift for iOS development and constantly improving my skills. I enjoy working on challenging and innovative projects, as well as enhancing existing solutions.  
+I'm in my penultimate year of a Computer Science degree, currently focused on Java for backend development and security, while also studying AWS. I have previous experience with Swift and iOS development, and I enjoy working on challenging and innovative projects, as well as improving existing solutions.
 Currently working with databases, and I have past experience in full stack development using PHP, JavaScript, SQL, and Flutter.
 
 ---
 
+### Certifications
+
+<a href="https://www.credly.com/badges/22336acd-57f2-4d1e-a3a7-af96f007ce8d/linked_in?t=sqdowx">
+    <img alt="AWS Cloud Practitioner Badge" width="160px" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
+
 ### Technologies
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UIKit-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-%23007AFF.svg?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/postgresql-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
 ---
