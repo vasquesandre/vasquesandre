@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Andre Vasques</h1>
-  <p>Backend Developer | Java | Spring | AWS | SQL | Swift</p>
+  <p>Backend Developer | Java | Spring | AWS | SQL</p>
   <p><i>Passionate about learning, building, and improving solutions</i></p>
 </div>
 
