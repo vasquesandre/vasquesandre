@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Andre Vasques</h1>
-  <p>Backend Developer | Java | Spring | AWS | SQL</p>
+  <p>Backend Developer | Java | Spring | AWS | SQL | NoSQL</p>
   <p><i>Passionate about learning, building, and improving solutions</i></p>
 </div>
 
@@ -8,8 +8,15 @@
 
 ### Backend Developer
 
-I'm in my penultimate year of a Computer Science degree, currently focused on Java for backend development and security, while also studying AWS. I have previous experience with Swift and iOS development, and I enjoy working on challenging and innovative projects, as well as improving existing solutions.
-Currently working with databases, and I have past experience in full stack development using PHP, JavaScript, SQL, and Flutter.
+Computer Science student in my penultimate year, focused on backend development with Java. Strong hands-on experience building RESTful APIs using Spring Boot, applying DTO-based API design, Domain-Driven Design (DDD) concepts, and clean architecture principles through personal and academic projects.
+
+Solid knowledge of relational databases, with practical experience using MySQL and PostgreSQL, including data modeling, joins, pagination, and query optimization. Familiar with JPA/Hibernate and SQL for backend persistence.
+
+Experience designing backend systems with clear separation of concerns, using concepts such as aggregates, value objects, and proper validation at API boundaries. Usage of BigDecimal for monetary calculations and consistent error handling in REST APIs.
+
+Background in full stack development using PHP, JavaScript, SQL, Flutter, and previous experience with Swift/iOS, providing a strong understanding of end-to-end application flow.
+
+Currently studying AWS and backend scalability fundamentals, with a focus on building robust and maintainable systems.
 
 ---
 
